@@ -1,0 +1,13 @@
+# Certificate Section
+
+layout: certificate # Specify Layout
+section: certificates # Section Title
+entries:
+  - issuer: Microsoft
+    certificateList:
+      - title: Azure Data Fundamentals
+        date: Feb. 2021 - No Expiration
+      - title: Azure AI Fundamentals
+        date: Jan. 2021 - No Expiration
+      - title: Azure Fundamentals
+        date: Dec. 2020 - No Expiration

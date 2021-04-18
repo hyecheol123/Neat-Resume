@@ -1,0 +1,10 @@
+# Honors and Awards Section
+
+layout: awards # Specify Layout
+section: honors and awards # Section Title
+entries:
+  - international:
+      - award: Silver Medal
+        event: 18th International Robot Olympiad Creative Category Challenge
+        location: Beijing, china
+        date: Dec. 2016

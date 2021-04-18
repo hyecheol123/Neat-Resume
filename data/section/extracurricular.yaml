@@ -1,0 +1,25 @@
+# Extracurricular Activity Section
+
+layout: entry # Specify Layout
+section: extracurricular activities # Section Title
+entries:
+  - title: Chief Technology Officer
+    organization: Korean-American Scientists & Engineers Association - Wisconsin Chapter
+    location: Madison, Wisconsin, United States
+    date: Jan. 2019 - Aug. 2020
+    details:
+      - Coordinating events and advertise
+      - Making and maintaining website for the organization
+      - To minimize cost, used static website builder (Jekyll) to implement the website
+  - title: Member
+    organization: Korean-American Scientists & Engineers Association - Wisconsin YG Chapter
+    location: Madison, Wisconsin, United States
+    date: Jan. 2019 - May. 2021
+  - title: Member
+    organization: Korean Undergraduate Association for Biochemistry and Molecular Biology
+    location: Madison, Wisconsin, United States
+    date: Sep. 2018 - May. 2021
+  - title: Percussionist
+    organization: UNIKISTS (Korean Student Organzation performing band music)
+    location: Madison, Wisconsin, United States
+    date: Sep. 2018 - Dec. 2018

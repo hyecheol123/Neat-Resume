@@ -1,0 +1,12 @@
+# Education Section
+
+layout: entry # Specify Layout
+section: education # Section Title
+entries:
+  - degree: B.S. in Computer Science and Statistics, Certificate in Business
+    institution: University of Wisconsin-Madison
+    location: Madison, Wisconsin, United States
+    date: Jul. 2018 - (Est. May. 2021)
+    details:
+      - "GPA: 3.882/4.000"
+      - "Dean's List: Fall 2018, Spring 2019, Spring 2020"

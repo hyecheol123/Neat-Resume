@@ -1,0 +1,50 @@
+# Work Experience Section
+
+layout: entry # Specify Layout
+section: work experience # Section Title
+entries:
+  - title: Social Service Agent
+    organization: Republic of Korea Army
+    location: Busan, South Korea
+    date: Oct. 2020 - current
+    details:
+      - Wonkwang Nursing Home (Long-Term Care Facilities)
+      - For mandatory military duty of the home country
+      - Estimated discharge at Jul. 04. 2022
+  - title: Technical Lead
+    organization: uniQon
+    location: Seoul, South Korea
+    date: Apr. 2020 - Oct. 2020
+    details:
+      - Used NodeJS(Typescript) and MongoDB to developed and operate API server, web page, and admin portal
+      - Closely collaborated with CEO to build concrete business plans
+      - Trained Interns/Software Developers and engaged in HR tasks
+      - Adopt Agile software development workflow (Scrum) with weakly feedback to team/individuals
+      - Implemented IT infrastructure and remote working environment with Microsoft Teams, Jira, and GitHub
+      - Traveled frequently for business meetings and recruiting
+  - title: Student Staff
+    organization: University of Wisconsin-Madison
+    location: Madison, Wisconsin, United States
+    date: Jan. 2019 - Mar. 2020
+    details:
+      - Worked as Student Staff at CALS Computing Lab of UW-Madison
+      - Engaged with patrons (both students and faculties)
+      - Maintained computer lab's facility
+      - Supported clients using productivity software and other issues related with Windows/macOS systems
+  - title: Education Consultant Research Assistant
+    organization: Lingua Education Consulting
+    location: Busan, South Korea
+    date: Apr. 2018 - Jul. 2018
+    details:
+      - Analyzed trend of high school and university admissions
+      - Taught AP and IB science and math subjects
+      - Built computer science curriculum for 3-6 grade kids
+  - title: Staff Member
+    organization: International Robot Olympiad Committee
+    location: Seoul, South Korea
+    date: Jul. 2017 - Aug. 2017
+    details:
+      - Staff member of 19th International Robot Olympiad Korea Domestic Qualifiers/Finals
+      - Judge for 5 categories, including creative category
+      - Organized the competition to be safe, fair, and enjoyable
+      - Stayed at basecamp and moved to four different cities during the competitions

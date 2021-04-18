@@ -1,0 +1,11 @@
+# Basic Configuration for the resume website
+
+name: Hyecheol (Jerry) Jang # Required
+position: Software Architect · Software Developer # Required
+address: 54, Chungnyeoldaero 107Beongil, Dongnae-gu, Busan, 47732, Republic of Korea # Required
+email: hyecheol123@gmail.com # Required
+github: hyecheol123
+linkedin: jhyecheol
+slogan: Keep Climbing
+
+# Other Social Links to be added
