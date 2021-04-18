@@ -1,0 +1,43 @@
+{
+  "name": "neat-resume",
+  "version": "1.0.0",
+  "description": "easy-to-use static résumé/CV(Curriculum Vitae) website builder",
+  "keywords": [
+    "nodejs",
+    "resume-template",
+    "resume",
+    "curriculum-vitae",
+    "cv",
+    "static-site",
+    "cv-template",
+    "resume-builder",
+    "resume-site-builder",
+    "resume-website",
+    "curriculum-vitae-template"
+  ],
+  "author": "Hyecheol (Jerry) Jang <hyecheol123@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint \"**/*.js\" && prettier \"**/*.js\"",
+    "lint:fix": "eslint \"**/*.js\" --fix && prettier \"**/*.js\" --write",
+    "build": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "clean": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyecheol123/Neat-Resume.git"
+  },
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/hyecheol123/Neat-Resume/issues"
+  },
+  "homepage": "https://github.com/hyecheol123/Neat-Resume#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.2.1"
+  }
+}
