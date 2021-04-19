@@ -7,5 +7,12 @@ email: hyecheol123@gmail.com # Required
 github: hyecheol123
 linkedin: jhyecheol
 slogan: Keep Climbing
+sections: # Filenames for each sections (in-order)
+  - summary.yaml
+  - education.yaml
+  - work-experience.yaml
+  - certificate.yaml
+  - award.yaml
+  - extracurricular.yaml
 
 # Other Social Links to be added

@@ -16,9 +16,10 @@
     "curriculum-vitae-template"
   ],
   "author": "Hyecheol (Jerry) Jang <hyecheol123@gmail.com>",
-  "main": "app.js",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
-    "lint": "eslint \"**/*.js\" && prettier \"**/*.js\"",
+    "lint": "eslint \"**/*.js\" && prettier -c \"**/*.js\"",
     "lint:fix": "eslint \"**/*.js\" --fix && prettier \"**/*.js\" --write",
     "build": "echo \"Error: no test specified\" && exit 1",
     "start": "echo \"Error: no test specified\" && exit 1",
@@ -39,5 +40,8 @@
     "eslint-config-prettier": "^8.2.0",
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "js-yaml": "^3.14.1"
   }
 }
