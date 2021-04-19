@@ -2,6 +2,9 @@
 
 layout: entry # Specify Layout
 section: education # Section Title
+alias:
+  - title: degree
+  - organization: institution
 entries:
   - degree: B.S. in Computer Science and Statistics, Certificate in Business
     institution: University of Wisconsin-Madison
