@@ -20,8 +20,6 @@ The generated website contains print and pdf download buttons.
 [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C34CYVJ)
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/jhyecheol)
 
-<br />
-
 Help keep this project and demo-website alive!!
 All donation regardless of amounts are welcome!!
 
