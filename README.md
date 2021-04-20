@@ -18,10 +18,10 @@ The generated website contains print and pdf download buttons.
 ## Donation
 
 <div align="center">
-  <a href="https://ko-fi.com/C0C34CYVJ">
+  <a href="https://ko-fi.com/C0C34CYVJ" target="_blank" rel="noopener noreferrer">
     <img alt="Donate with Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
   </a>
-  <a href="https://paypal.me/jhyecheol">
+  <a href="https://paypal.me/jhyecheol" target="_blank" rel="noopener noreferrer">
     <img alt="Donate with PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </div>
