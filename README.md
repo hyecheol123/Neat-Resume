@@ -15,6 +15,25 @@ From the template, you can easily create your own resume website with YAML forma
 The generated website contains print and pdf download buttons.
 
 
+## Donation
+
+<div align="center">
+  <a href="https://ko-fi.com/C0C34CYVJ">
+    <img alt="Donate with Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg" />
+  </a>
+  <a href="https://paypal.me/jhyecheol">
+    <img alt="Donate with PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</div>
+
+<br />
+
+Help keep this project and demo-website alive!!
+All donation regardless of amounts are welcome!!
+
+You can choose to donate using [PayPal](https://paypal.me/jhyecheol) and [Ko-Fi](https://ko-fi.com/C0C34CYVJ). Ko-Fi also accepts credit/debit card payments.
+
+
 ## Preview
 
 
